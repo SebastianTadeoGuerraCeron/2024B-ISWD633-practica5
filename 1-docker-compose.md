@@ -60,7 +60,7 @@ docker compose ps
 
 ### COMPLETAR CON UNA CAPTURA DE PANTALLA DEL LISTADO DE LOS CONTENEDORES EN EJECUCIÓN
 
-![Resultado Listado de Docker Compose ](imagenes/1.png)
+![Resultado Listado de Docker Compose ](https://github.com/SebastianTadeoGuerraCeron/2024B-ISWD633-practica5/blob/main/imagenes/1.png?raw=true)
 
 ### Detener y eliminar los contenedores definidos en el archivo
 
