@@ -1,3 +1,4 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+# Mi Aprendizaje
+
+Previo al desarrollo de esta actividad, no tenia conocimiento previo acerca de la utilidad de Docker Compose, únicamente había escuchado sobre esta herramienta. Después de haber relaizado la práctica, ahora conozco sobre la elaboración y configuración de los distintos elementos que forman parte del compose.yaml, como por ejemplo, la configuración de variables de entorno, el "Healthcheck", lo cual verifica el estado del contenedor, los puertos del contenedor, y demás variables que sirven para la correcta construccion de los contenedores. Ademásm es importante mencionar la relación entre SonarQube y Postgres, ya que SonarQube necesita trabajar con una base de datos para poder guardar toda su información.
+Por último, es importante mencionar que comprendí la importancia de tener un compose.yaml para la creación de los contenedores, ya que de esta forma, se ahorra mucho tiempo al generar estos contenedores, en vez de ejecutar cada comando manualmente.
